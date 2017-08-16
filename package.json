@@ -1,0 +1,17 @@
+{
+  "name": "5.2.3-user-directory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Jeremiah Adkins",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
