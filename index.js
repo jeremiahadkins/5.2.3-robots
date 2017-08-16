@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const exphbs  = require('express-handlebars');
+const exphbs = require('express-handlebars');
 const data = require('./data');
 const robot = data.users;
 
